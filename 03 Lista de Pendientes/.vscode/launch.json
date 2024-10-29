@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/orlan/OneDrive - ITESO/ITESO/Semestre 6/Programación Estructurada/Prácticas/Proyectos/03 Lista de Pendientes",
+      "program": "c:/Users/orlan/OneDrive - ITESO/ITESO/Semestre 6/Programación Estructurada/Prácticas/Proyectos/03 Lista de Pendientes/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
